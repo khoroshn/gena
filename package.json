@@ -1,0 +1,15 @@
+{
+  "name": "gena",
+  "version": "0.0.1",
+  "description": "This is a Game Generation A",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "genA\u001b[D\u001b[D\u001b[G"
+  },
+  "author": "Kho",
+  "license": "ISC"
+}
